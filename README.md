@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @brendonmustdie
-- 👀 I’m interested in creating Games that make a difference.
-- 🌱 I’m currently learning lots! I'm a third year in Game Design Studies and spending my time figuring it out.
+- 👀 I’m interested in how the internet changes the world.
+- 🌱 I’m currently learning about React and making programmes in Unity! 
 - 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me, my instagram: @brendonmustdie-portfolio. 
+- 📫 How to reach me, my instagram: @brendonmustdie. 
 
 <!---
 brendonmustdie/brendonmustdie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
